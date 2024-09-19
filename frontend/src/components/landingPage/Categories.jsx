@@ -26,7 +26,7 @@ const Categories = () => {
       <div className="w-full flex justify-between items-center mb-8">
         <Slide>
           <div className='flex flex-col'>
-            <h2 className="text-5xl font-bold text-blue-700">TOP CATEGORIES</h2>
+            <h2 className="text-2xl md:text-5xl font-bold text-blue-700">TOP CATEGORIES</h2>
             <h2 className="text-2xl  ml-2 mt-2 font-light text-gray-800"> Explore our Top Categories</h2>
 
           </div>

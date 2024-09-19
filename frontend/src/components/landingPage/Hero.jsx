@@ -17,7 +17,7 @@ const Hero = () => {
 
     return (
         <>
-            <div className='mt-24 md:mt-0'>
+            <div className=' md:mt-0'>
                 <Zoom cascade>
                     <section className="bg-white h-screen flex flex-col lg:flex-row items-center">
                         <div className="w-full lg:w-1/2 h-1/2 lg:h-full order-1 flex flex-col justify-center p-6 lg:p-8">
